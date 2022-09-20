@@ -1,5 +1,5 @@
 body {
-    margin: 20px;
+    margin: 20px 20px 10px 50px;
     background: black;
 }
 
@@ -9,8 +9,4 @@ nav {
 
 .container, .row {
     margin-bottom: 100px;
-}
-
-.text {
-    color: white;
 }
